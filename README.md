@@ -1,1 +1,46 @@
-# Ashmit-L
+# 🛡️ Hi, I'm an Aspiring Cybersecurity Analyst
+
+### Blue Team | SOC Operations | Defensive Security
+
+I'm building hands-on cybersecurity projects focused on security monitoring, threat detection, incident response, and defensive security.
+
+### 🎯 Areas of Interest
+- 🔎 Security monitoring and log analysis
+- 🛡️ Threat detection and incident response
+- 📊 SIEM and SOC operations
+- 🔐 Vulnerability management and system hardening
+- ☁️ Cloud security and AWS
+
+### 🧰 Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,powershell,git,github,aws,docker" alt="Cybersecurity technologies" />
+</p>
+
+### 🔐 Security Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Splunk-SIEM-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Elastic-Security-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic Security" />
+  <img src="https://img.shields.io/badge/Suricata-IDS%2FIPS-EF3B2D?style=for-the-badge" alt="Suricata" />
+</p>
+
+### 🚀 Featured Projects
+- **SOC Home Lab** — Building and documenting a hands-on security monitoring environment.
+- **Log Analysis Lab** — Practicing log investigation and suspicious activity detection.
+- **Incident Response Lab** — Documenting investigation workflows and defensive techniques.
+
+### 📚 Currently Learning
+- SIEM monitoring and alert triage
+- Linux security and networking
+- Detection engineering fundamentals
+- Cloud security fundamentals
+
+### 🤝 Connect With Me
+- 💼 LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+- 📂 Explore my repositories to follow my cybersecurity journey.
+
+---
+
+*Learning by building, documenting, and improving security one project at a time.*

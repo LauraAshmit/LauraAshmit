@@ -1,17 +1,6 @@
 # 🛡️ Hi, I'm an Aspiring Cybersecurity Analyst
 ### Blue Team | SOC Operations | Defensive Security
 
-I'm building hands-on cybersecurity projects focused on security monitoring, threat detection, incident response, and defensive security.
-
-### 🎯 Areas of Interest
-- 🔎 Security monitoring and log analysis
-- 🛡️ Threat detection and incident response
-- 📊 SIEM and SOC operations
-- 🔐 Vulnerability management and system hardening
-- ☁️ Cloud security and AWS
-
-### 🧰 Technologies & Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,powershell,git,github,aws,docker" alt="Cybersecurity technologies" />
 </p>
@@ -28,11 +17,6 @@ I'm building hands-on cybersecurity projects focused on security monitoring, thr
 - **Log Analysis Lab** — Practicing log investigation and suspicious activity detection.
 - **Incident Response Lab** — Documenting investigation workflows and defensive techniques.
 
-### Currently Learning
-- SIEM monitoring and alert triage
-- Linux security and networking
-- Detection engineering fundamentals
-- Cloud security fundamentals
 
 ### 🤝 Connect With Me
 - 💼 LinkedIn: 

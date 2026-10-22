@@ -13,13 +13,9 @@
 </p>
 
 ### Featured Projects
-- **SOC Home Lab** — Building and documenting a hands-on security monitoring environment.
-- **Log Analysis Lab** — Practicing log investigation and suspicious activity detection.
-- **Incident Response Lab** — Documenting investigation workflows and defensive techniques.
-
-
-### 🤝 Connect With Me
-- 💼 LinkedIn: 
+- **SOC Home Lab**  Building and documenting a hands-on security monitoring environment.
+- **Log Analysis Lab**  Practicing log investigation and suspicious activity detection.
+- **Incident Response Lab** Documenting investigation workflows and defensive techniques.
 - 📂 Explore my repositories to follow my cybersecurity journey.
 
 

@@ -5,7 +5,7 @@
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python,powershell,git,github,aws,docker" alt="Cybersecurity technologies" />
 </p>
 
-### 🔐 Security Tools
+### Security Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-Network_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />

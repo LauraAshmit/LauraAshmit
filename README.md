@@ -1,4 +1,4 @@
-# 🛡️ Hi, I'm an Aspiring Cybersecurity Analyst
+# 🛡️👽 Hi, I'm an Aspiring Cybersecurity Analyst
 ### Blue Team | SOC Operations | Defensive Security
 
 <p align="left">
